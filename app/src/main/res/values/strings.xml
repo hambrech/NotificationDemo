@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="your_text_hint">Your text</string>
+    <string name="create">Create notification</string>
+</resources>
